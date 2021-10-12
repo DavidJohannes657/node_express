@@ -1,0 +1,27 @@
+{
+  "name": "semana1",
+  "version": "1.0.0",
+  "description": "introduccion a aplicaciones Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index",
+    "dev": "nodemon --watch ./index.js"
+  },
+  "keywords": [
+    "aplicaciones",
+    "node.js",
+    "package.json"
+  ],
+  "author": "Juan Rondon",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-load": "^1.1.16",
+    "sweetalert2": "^11.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}

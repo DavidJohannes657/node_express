@@ -1,0 +1,85 @@
+.re{
+    
+    background-image: linear-gradient(
+      rgba(255, 0, 0, 0.3), 
+      rgba(255, 0, 0, 0.3)
+    ),
+ url(/img/fondo2.jpg); 
+    color: blanchedalmond;
+    
+}
+.te{
+    font-family:Lucida sans-serif;
+    font-style: italic;
+    font-size:medium;
+    background-color: rgba(17, 1, 1, 0.548);
+    margin-left: 15px;
+    margin-top: 40px;
+    height: 355px;
+    width: 1300px;
+    border: 1px solid rgb(247, 253, 255);
+}
+.ea{
+    margin-top: 100px;
+    margin-left:400px ;
+    height: 480px;
+    width: 300px;
+    border: 2px solid rgb(247, 253, 255);
+}
+.ao{
+    height: 80px;
+    background-color: rgba(17, 1, 1, 0.548);
+    border: 1px solid rgb(247, 253, 255);
+}
+.df{
+    font-size:xx-large;
+    font-style: italic;
+    font-family: monospace;
+    margin-left: 900px;
+    position: fixed;
+    
+    
+}
+
+.df:hover,  a:hover{
+    color: blanchedalmond;
+}
+.df a:active{
+    color: yellow;
+}
+.df a:link {
+    color: rgb(230, 20, 20);
+}
+.qw{
+    background-image: linear-gradient(
+        rgba(255, 0, 0, 0.3), 
+        rgba(255, 0, 0, 0.3)
+      ),
+   url(/img/lolo.jpg); 
+      color: blanchedalmond;
+}
+.ju{
+    background-color: rgba(17, 1, 1, 0.548);
+    color: blanchedalmond;
+    font-family: lucida sans-serif;
+    font-size:x-large;
+    font-style: italic;
+    height: 400px;
+    width: 300px;
+    border: 3px solid rgb(247, 253, 255);
+}
+.jy{
+    font-size:xx-large;
+    background-color: rgba(17, 1, 1, 0.548);
+    height: 130px;
+    width: 600px;
+    border: 3px solid rgb(247, 253, 255);
+}
+.tg{
+    font-size:xx-large;
+    background-color: rgba(17, 1, 1, 0.548);
+    height: 550px;
+    width: 400px;
+    border: 3px solid rgb(247, 253, 255);
+    margin-left: 500px;
+}
