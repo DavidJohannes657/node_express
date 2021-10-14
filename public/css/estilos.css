@@ -1,21 +1,61 @@
 .re{
     
     background-image: linear-gradient(
-      rgba(255, 0, 0, 0.3), 
-      rgba(255, 0, 0, 0.3)
-    ),
- url(/img/fondo2.jpg); 
-    color: blanchedalmond;
+        rgba(14, 1, 1, 0.3), 
+        rgba(14, 1, 1, 0.3)
+      ),
+   url(/img/ser.jpg);
+   border: 2px solid rgb(247, 253, 255);
     
 }
+.an{
+    background-color: rgba(17, 1, 1, 0.548);
+    height: 160px;
+    border: 1px solid rgb(247, 253, 255);
+    
+
+}
+.ki{
+    position: absolute;
+    margin-left: 400px;
+}
+.ka{
+    position: absolute;
+    margin-left: 200px;
+}
+.ke{
+    position: absolute;
+}
+.li{
+    margin-left: 500px;
+}
+.rs{
+   
+    color: blanchedalmond;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+    position: absolute;
+    text-align: center;
+    margin-left: 900px;
+    font-style: italic;
+   text-decoration: underline;
+    
+    
+}
+.rd{
+    position:absolute;
+    color: blanchedalmond;
+}
+
 .te{
     font-family:Lucida sans-serif;
     font-style: italic;
     font-size:medium;
+    color: blanchedalmond;
     background-color: rgba(17, 1, 1, 0.548);
     margin-left: 15px;
     margin-top: 40px;
-    height: 355px;
+    height: 360px;
     width: 1300px;
     border: 1px solid rgb(247, 253, 255);
 }
@@ -32,11 +72,13 @@
     border: 1px solid rgb(247, 253, 255);
 }
 .df{
-    font-size:xx-large;
+    font-size:small;
     font-style: italic;
     font-family: monospace;
+    position: absolute;
     margin-left: 900px;
-    position: fixed;
+    height: 200px;
+    
     
     
 }
